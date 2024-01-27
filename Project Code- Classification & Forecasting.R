@@ -1,6 +1,6 @@
 # Setting Working Directory
 getwd()
-setwd('/Users/jaikrishna/Documents/College/Data Programming/Walmart Data/Data')
+setwd('/Users/gnedun112/Documents/College/Data Programming/Walmart Data/Data')
 
 # Importing the data
 stores <- read.csv("stores.csv")
